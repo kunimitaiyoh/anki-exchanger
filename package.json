@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "description": "anki-exchanger",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/kunimitaiyoh/anki-exchanger.git",
   "author": {
     "name": "KUNIMI Taiyoh",
     "email": "kunimi.taiyoh@gmail.com",
-    "url": ""
+    "url": "https://github.com/kunimitaiyoh/anki-exchanger"
   },
   "keywords": [""],
   "files": ["lib"],
